@@ -78,5 +78,5 @@ class Planet:
     color = "green"
     """Цвет планеты"""
 
-    image = None
+    image = None 
     """Изображение планеты"""
